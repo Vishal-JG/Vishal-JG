@@ -29,8 +29,8 @@ I'm interested in **DevOps, Cloud, SRE and DevSecOps**: building, automating and
 ## Featured projects
 
 - **[Homelab](https://github.com/Vishal-JG/HomeLab)**: k3s cluster with Tailscale networking, Ansible-provisioned and GitHub Actions CI/CD
-  - **[Agentic AI Personal Finance App](https://github.com/AlanWen1/ASD-agentic-ai-Group4)**: Group project (UTS Advanced Software Development). I built the budget microservice (Flask, Docker, GitHub Actions CI); the app combines four teammates' services behind a shared REST API and UI, with a local LLM (Ollama) powering an AI mode.
-  - 
+- **[Agentic AI Personal Finance App](https://github.com/AlanWen1/ASD-agentic-ai-Group4)**: Group project (UTS Advanced Software Development). I built the budget microservice (Flask, Docker, GitHub Actions CI); the app combines four teammates' services behind a shared REST API and UI, with a local LLM (Ollama) powering an AI mode.
+  
 ## Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/vishaljg20)
